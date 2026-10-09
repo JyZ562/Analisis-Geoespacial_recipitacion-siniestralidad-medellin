@@ -1,6 +1,6 @@
 # Influencia de la precipitación en la siniestralidad vial del Distrito de Medellín (2022–2024)
 
-**Autora:** María José Ballesteros Mesa — Ingeniera Civil e Ingeniera Sanitaria  
+**Autor:** Jorge Andres Vivas Moreno — Maestría en Ingeniería - Recursos Hidráulicos  
 **Curso:** Análisis Geoespacial · Prof. Edier Vicente Aristizábal Giraldo · Semestre 2026-02  
 Departamento de Geociencias y Medio Ambiente · Facultad de Minas · Universidad Nacional de Colombia, Sede Medellín
 
