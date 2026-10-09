@@ -1,4 +1,4 @@
-# Influencia de la precipitación en la siniestralidad vial del Distrito de Medellín (2022–2024)
+# Influencia de la precipitación y la pendiente en la siniestralidad vial del Distrito de Medellín (2022–2024)
 
 **Autor:** Jorge Andres Vivas Moreno — Ingeniero Civil e Ingeniero Sanitario · Especialización en Recursos Hídricos  
 **Curso:** Análisis Geoespacial · Prof. Edier Vicente Aristizábal Giraldo · Semestre 2026-02  
