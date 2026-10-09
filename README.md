@@ -6,20 +6,18 @@ Departamento de Geociencias y Medio Ambiente · Facultad de Minas · Universidad
 
 ## Pregunta de investigación
 
-¿La precipitación y la pendiente de las vías aumentan la ocurrencia y la gravedad de los siniestros viales en Medellín, y en qué zonas de la ciudad es mayor ese efecto?
+¿La precipitación y la pendiente del terreno aumentan la ocurrencia y la gravedad de los siniestros viales en Medellín, y en qué zonas de la ciudad es mayor ese efecto?
 
 ## Datos
 
 | Tipo | Capa | Fuente |
 |---|---|---|
-| Punto | Siniestros viales 2022–2024 (IPAT) | Secretaría de Movilidad de Medellín |
-| Punto | Estaciones pluviométricas (precipitación diaria) | SIATA / IDEAM |
-| Línea | Isoyetas | Derivadas de la lluvia interpolada |
-| Área | Comunas y barrios | GeoMedellín |
-| Área | Polígonos de Thiessen por estación | Derivados |
-| Superficie | Mapas de calor (KDE): total, días secos y lluviosos | Derivados |
-| Superficie | Raster de precipitación interpolada (IDW / kriging) | Derivado |
-| Superficie | Raster de pendientes de Medellín (%) | Propio |
+| Punto (0D) | Siniestros viales 2022–2024 (IPAT) | Secretaría de Movilidad de Medellín |
+| Punto (0D) | Estaciones pluviométricas (precipitación diaria) | SIATA / IDEAM |
+| Área (2D) | Comunas y barrios | GeoMedellín |
+| Superficie (3D) | Raster de pendientes del terreno (%) | — |
+
+Cada siniestro toma el valor de pendiente de la celda donde ocurrió, junto con la lluvia del día.
 
 ## Contenido
 
