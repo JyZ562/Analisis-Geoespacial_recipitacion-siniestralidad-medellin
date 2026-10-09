@@ -6,7 +6,7 @@ Departamento de Geociencias y Medio Ambiente · Facultad de Minas · Universidad
 
 ## Pregunta de investigación
 
-¿La precipitación aumenta la ocurrencia y la gravedad de los siniestros viales en Medellín, y en qué zonas de la ciudad es mayor ese efecto?
+¿La precipitación y la pendiente de las vías aumentan la ocurrencia y la gravedad de los siniestros viales en Medellín, y en qué zonas de la ciudad es mayor ese efecto?
 
 ## Datos
 
