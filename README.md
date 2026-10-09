@@ -19,6 +19,7 @@ Departamento de Geociencias y Medio Ambiente · Facultad de Minas · Universidad
 | Área | Polígonos de Thiessen por estación | Derivados |
 | Superficie | Mapas de calor (KDE): total, días secos y lluviosos | Derivados |
 | Superficie | Raster de precipitación interpolada (IDW / kriging) | Derivado |
+| Superficie | Raster de pendientes de Medellín (%) | Propio |
 
 ## Contenido
 
